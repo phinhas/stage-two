@@ -1,5 +1,4 @@
 function myname(){
-    let x=document.getElementById("name").innerHTML="My name is Phinehas";
-    x.style.color="green";
+    let x=document.getElementById("name").innerHTML="My slack username is frost";
     return x;
 }
