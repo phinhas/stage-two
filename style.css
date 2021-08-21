@@ -18,15 +18,15 @@ body{
     padding-top: 30%;
     padding-right: 2%;
     padding-left: 30%;
-    font-size: 28px;
+    font-size: 15px;
 }
 
 .fa-user{
-    color: rgb(178, 238, 13);
+    color: rgb(8, 132, 235);
 }
 
 .fa-globe{
-    color: rgb(76, 63, 252);
+    color: rgb(221, 18, 79);
 }
 
 .footer{
@@ -57,7 +57,7 @@ body{
 
 /*SOMETHING NEW*/
 .heade{
-    background-color: rgb(20, 7, 19);
+    background-image: linear-gradient(rgb(71, 23, 67), black);
     padding: 5% 5%;
 }
 
@@ -88,7 +88,7 @@ body{
     background-color: #00203fff;
 }
 
-.fa-briefcase, .fa-school, .fa-code, .fa-certificate{
+.fa-briefcase, .fa-school, .fa-code, .fa-file{
     padding: 0;
     font-size: 80px;
     margin-bottom: 4%;
@@ -125,4 +125,13 @@ a:hover{
     font-size: 20px;
     color: rgb(245, 229, 2);
     padding: 0;
+}
+
+.fa-github, .fa-linkedin{
+    color: white;
+    font-size: 30px;
+}
+
+.f{
+    margin-top: 8%;
 }
