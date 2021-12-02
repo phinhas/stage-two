@@ -74,10 +74,14 @@ body{
     background-color: #00203fff;
 }
 
-.fa-briefcase, .fa-school, .fa-code, .fa-file{
+.fa-briefcase, .fa-school, .fa-code{
     padding: 0;
     font-size: 80px;
     margin-bottom: 4%;
+}
+
+.fa-sticky-note{
+    font-size: 80px;
 }
 
 a{
